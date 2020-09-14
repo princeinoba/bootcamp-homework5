@@ -9,4 +9,4 @@ Using a daily planner to create a schedule. The current day is displayed at the 
 
 The following demonstrates the application functionality: Main JavaScript Concepts Used, For loops Functions and callback functions, Using Local Storage accessClasses. Additional resources includes, Font Awesome 5, Bootstrap 4, Moment.js
 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. homework assignment. Carleton University Coding Bootcamp. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. homework assignment. Carleton University Coding Bootcamp.(https://bootcamp.carleton.ca/). All Rights Reserved.
