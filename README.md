@@ -1,7 +1,7 @@
 # bootcamp-homework5
 work-day-scheduler
 
-Purpose of this project is to create a simple work-day-scheduler calendar application that allows for user to enter tasks/events for that hour in the text area and save events for each hour of the day. Add important events to a daily planner to manage time effectively. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Purpose of this project is to create a simple work-day-scheduler calendar application that allows for user to enter tasks/events for that hour in the text area and save events for each hour of the day. Add important events to a daily planner to manage time effectively. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 Description
 
