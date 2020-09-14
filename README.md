@@ -5,7 +5,7 @@ Purpose of this project is to create a simple work-day-scheduler calendar applic
 
 Description
 
-The current day is displayed at the top of the calendar. Timeblocks for standard business hours. Each timeblock is color coded to indicate whether it is in the past, present, or future. Click into a timeblock, enter and save an event. They may save their entries to local storage using the corresponding save button.
+Using a daily planner to create a schedule. The current day is displayed at the top of the calendar. Timeblocks for standard business hours. Each timeblock is color coded to indicate whether it is in the past, present, or future. Click into a timeblock, enter and save an event. They may save their entries to local storage using the corresponding save button.
 
 The following demonstrates the application functionality: Main JavaScript Concepts Used, For loops Functions and callback functions, Using Local Storage accessClasses. Additional resources includes, Font Awesome 5, Bootstrap 4, Moment.js
 
