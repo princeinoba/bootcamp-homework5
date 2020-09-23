@@ -9,7 +9,7 @@ Using a daily planner to create a schedule. The current day is displayed at the 
 
 The following demonstrates the application functionality: Main JavaScript Concepts Used, For loops Functions and callback functions, Using Local Storage accessClasses. Additional resources includes, Font Awesome 5, Bootstrap 4, Moment.js
 
-https://joshualive.github.io/Weather-Dashboard/
+https://princeinoba.github.io/bootcamp-homework5/
 
 # 05 Third-Party APIs: Work Day Scheduler
 
